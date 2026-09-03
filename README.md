@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0A0A0C%2C100%3A1C1C1E&height=220&section=header&text=Atheequrrahman&fontAlign=50&fontAlignY=35&fontColor=F5F5F7&fontSize=36" width="100%" alt="Atheequrrahman banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFGi1CZXT_3Hg/profile-displaybackgroundimage-shrink_350_1400/B56aA5e7w.JAAU-/0/1787670806167?e=1790208000&v=beta&t=6kKIdqjWIcP10_h4UNCMFU03LWvrM_OkTGfQIMhnMVI" width="100%" alt="Atheequrrahman banner" />
   <img src="https://github.com/iamatheeq.png" width="140" height="140" alt="Atheequrrahman" style="border-radius:50%; border:4px solid #ffffff; margin-top:-70px; box-shadow:0 4px 16px rgba(0,0,0,0.25);" />
   <h1 style="margin-top:12px; margin-bottom:4px;">Atheequrrahman</h1>
 </div>
