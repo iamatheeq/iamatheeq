@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://github.com/iamatheeq.png" width="120" height="120" style="border-radius:50%" alt="Atheequrrahman" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0A0A0C%2C100%3A1C1C1E&height=220&section=header&text=Atheequrrahman&fontAlign=50&fontAlignY=35&fontColor=F5F5F7&fontSize=36" width="100%" alt="Atheequrrahman banner" />
+  <img src="https://github.com/iamatheeq.png" width="140" height="140" alt="Atheequrrahman" style="border-radius:50%; border:4px solid #ffffff; margin-top:-70px; box-shadow:0 4px 16px rgba(0,0,0,0.25);" />
+  <h1 style="margin-top:12px; margin-bottom:4px;">Atheequrrahman</h1>
 </div>
-
-
-# Atheequrrahman
-
-<p align="center"><em>Animated virtual resume · live GitHub analytics</em></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -42,7 +39,7 @@ Passionate Full-Stack Engineer specializing in backend ecosystem design (.NET Co
 
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1E?style=for-the-badge&logo=javascript&logoColor=0A84FF) ![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1E?style=for-the-badge&logo=typescript&logoColor=0A84FF) ![React](https://img.shields.io/badge/React-1C1C1E?style=for-the-badge&logo=react&logoColor=0A84FF) ![Next.js](https://img.shields.io/badge/Next.js-1C1C1E?style=for-the-badge&logo=nextdotjs&logoColor=0A84FF) ![React Native](https://img.shields.io/badge/React%20Native-1C1C1E?style=for-the-badge&logo=react&logoColor=0A84FF) ![Node.js](https://img.shields.io/badge/Node.js-1C1C1E?style=for-the-badge&logo=nodedotjs&logoColor=0A84FF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1C1C1E?style=for-the-badge&logo=tailwindcss&logoColor=0A84FF) ![Express](https://img.shields.io/badge/Express-1C1C1E?style=for-the-badge&logo=express&logoColor=0A84FF) ![Stripe](https://img.shields.io/badge/Stripe-1C1C1E?style=for-the-badge&logo=stripe&logoColor=0A84FF) ![Git](https://img.shields.io/badge/Git-1C1C1E?style=for-the-badge&logo=git&logoColor=0A84FF) ![Docker](https://img.shields.io/badge/Docker-1C1C1E?style=for-the-badge&logo=docker&logoColor=0A84FF)
+![Node.js](https://img.shields.io/badge/Node.js-1C1C1E?style=for-the-badge&logo=nodedotjs&logoColor=0A84FF) ![Express](https://img.shields.io/badge/Express-1C1C1E?style=for-the-badge&logo=express&logoColor=0A84FF) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-1C1C1E?style=for-the-badge&logo=dotnet&logoColor=0A84FF) ![Strapi](https://img.shields.io/badge/Strapi-1C1C1E?style=for-the-badge&logo=strapi&logoColor=0A84FF) ![GraphQL](https://img.shields.io/badge/GraphQL-1C1C1E?style=for-the-badge&logo=graphql&logoColor=0A84FF) ![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1E?style=for-the-badge&logo=javascript&logoColor=0A84FF) ![React](https://img.shields.io/badge/React-1C1C1E?style=for-the-badge&logo=react&logoColor=0A84FF) ![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1E?style=for-the-badge&logo=typescript&logoColor=0A84FF) ![Next.js](https://img.shields.io/badge/Next.js-1C1C1E?style=for-the-badge&logo=nextdotjs&logoColor=0A84FF) ![React Native](https://img.shields.io/badge/React%20Native-1C1C1E?style=for-the-badge&logo=react&logoColor=0A84FF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1C1C1E?style=for-the-badge&logo=tailwindcss&logoColor=0A84FF) ![HTML5](https://img.shields.io/badge/HTML5-1C1C1E?style=for-the-badge&logo=html5&logoColor=0A84FF) ![CSS3](https://img.shields.io/badge/CSS3-1C1C1E?style=for-the-badge&logo=css3&logoColor=0A84FF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1C1E?style=for-the-badge&logo=postgresql&logoColor=0A84FF) ![MongoDB](https://img.shields.io/badge/MongoDB-1C1C1E?style=for-the-badge&logo=mongodb&logoColor=0A84FF) ![MySQL](https://img.shields.io/badge/MySQL-1C1C1E?style=for-the-badge&logo=mysql&logoColor=0A84FF) ![Redis](https://img.shields.io/badge/Redis-1C1C1E?style=for-the-badge&logo=redis&logoColor=0A84FF) ![Docker](https://img.shields.io/badge/Docker-1C1C1E?style=for-the-badge&logo=docker&logoColor=0A84FF) ![Git](https://img.shields.io/badge/Git-1C1C1E?style=for-the-badge&logo=git&logoColor=0A84FF) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1C1C1E?style=for-the-badge&logo=githubactions&logoColor=0A84FF) ![Stripe](https://img.shields.io/badge/Stripe-1C1C1E?style=for-the-badge&logo=stripe&logoColor=0A84FF)
 
 ## Live GitHub Stats
 
