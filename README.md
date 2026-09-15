@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFGi1CZXT_3Hg/profile-displaybackgroundimage-shrink_350_1400/B56aA5e7w.JAAU-/0/1787670806167?e=1790208000&v=beta&t=6kKIdqjWIcP10_h4UNCMFU03LWvrM_OkTGfQIMhnMVI" width="100%" alt="Atheequrrahman banner" />
   <img src="https://github.com/iamatheeq.png" width="140" height="140" alt="Atheequrrahman" style="border-radius:50%; border:4px solid #ffffff; margin-top:-70px; box-shadow:0 4px 16px rgba(0,0,0,0.25);" />
   <h1 style="margin-top:12px; margin-bottom:4px;">Atheequrrahman</h1>
 </div>
